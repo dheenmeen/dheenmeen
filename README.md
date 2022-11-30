@@ -1,6 +1,6 @@
 -Hi I'm Meenakshi Devi Balakrishnan
-- 👀 I’m interested in internships in the field of DataScience
-- 🌱 I’m currently learning python, ML and AI
+- 👀 I’m interested in internships/jobs in the field of DataScience
+- 🌱 I’m currently learning python, ML, DL and AI
 - 💞️ I’m looking to collaborate on autopilot projects and robotics
 - 📫 You can reach me on dheenmeen@gmail.com, whatsapp @(91) 948 9515 609
 
